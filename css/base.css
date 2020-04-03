@@ -6,6 +6,8 @@
 .container {
   max-width: 480px;
   margin: auto;
+  outline: 1px solid black;
+  outline-offset: -1;
 }
 
 .img {
@@ -29,9 +31,10 @@
 
 /* figure out borders */
 
-.i-container{
+.image-text-container{
   position: relative;
   display: inline-block;
+  margin: 0 -4px -3px 0;
 }
 
 .text-center {
