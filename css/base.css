@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 480px;
+  margin: auto;
+}
+
+.img {
+  display: block;
+  box-sizing: border-box;
+}
+
+.img1 {
+  display: block;
+  float: left;
+}
+
+/* .img, .img1 {
+  border: 1px solid black;
+  box-sizing: border-box;
+} */
+
+/* figure out borders */
